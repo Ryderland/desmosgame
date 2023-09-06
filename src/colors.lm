@@ -1,0 +1,9 @@
+//backround
+export const c_1 = rgb(29, 37, 46);
+
+//white
+export const c_2 = rgb(255, 255, 255);
+
+//black
+export const c_3 = rgb(0, 0, 0);
+

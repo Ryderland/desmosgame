@@ -2,3 +2,8 @@ import templates from "graphgame";
 
 initialize!();
 
+import!("colors.lm");
+
+import!("backround.lm");
+
+import!("World/board.lm");
