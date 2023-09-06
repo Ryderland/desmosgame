@@ -1,0 +1,4 @@
+import templates from "graphgame";
+
+initialize!();
+
