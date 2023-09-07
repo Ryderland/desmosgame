@@ -1,0 +1,12 @@
+createBehavior!("pawn", {
+polygon({
+    const x = 1;
+    const y = 0;
+
+    const x_scale = 1;
+    const y_scale = 1;
+
+    state = (x, y) + x_scale*[(-4/10, 0), (4/10, 0), (0, 0)] + y_scale*[(0, -4/10), (0, -4/10), (0, 1/4)];
+});
+
+});

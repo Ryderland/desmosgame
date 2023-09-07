@@ -1,5 +1,5 @@
 //backround
-export const c_1 = rgb(29, 37, 46);
+export const c_1 = rgb(49, 57, 66);
 
 //white
 export const c_2 = rgb(255, 255, 255);

@@ -1,0 +1,23 @@
+createBehavior!("pos", {
+        setValArgs!("layer", 0,0);
+        setValArgs!("base.transform.x", 1, 0);
+        setValArgs!("base.transform.y", 2, 0);
+});
+
+createBehavior!("white", {
+setDisplay!({
+        display color = c_2;
+        display fill = 1;
+        display stroke = 1;
+        display thickness = 1;
+    });
+});
+
+createBehavior!("black", {
+setDisplay!({
+        display color = c_3;
+        display fill = 1;
+        display stroke = 1;
+        display thickness = 1;
+    });
+});

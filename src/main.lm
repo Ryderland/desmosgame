@@ -6,4 +6,8 @@ import!("colors.lm");
 
 import!("backround.lm");
 
+import!("peices/peices.lm");
+
 import!("World/board.lm");
+
+import!("resources.lm");
